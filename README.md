@@ -58,5 +58,5 @@ FancyTool 是一款优雅高效的 Mac 菜单栏应用，您可以在这里免�
 如果觉得有用，可以请我喝杯咖啡☕️
 
 <p align="center">
-<img src="/doc/1.JPG">
+<img src="/doc/1.JPG" width="100">
 </p>
